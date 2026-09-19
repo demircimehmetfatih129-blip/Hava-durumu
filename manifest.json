@@ -1,0 +1,17 @@
+{
+  "background_color": "#1e3c72",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Hava durumu",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Hava",
+  "start_url": "/",
+  "theme_color": "#17315f",
+  "id": "hava. durumu. app",
+  "description": "Canlı hava durumu tahmini ve 7 günlük tahmini",
+  "lang": "tr",
+  "categories": [
+    "weather"
+  ]
+}
